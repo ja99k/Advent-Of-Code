@@ -1,0 +1,14 @@
+C:\dev\Advent Of Code\advent_of_code_day_1\bin\Debug\net9.0\advent_of_code_day_1.exe
+C:\dev\Advent Of Code\advent_of_code_day_1\bin\Debug\net9.0\advent_of_code_day_1.deps.json
+C:\dev\Advent Of Code\advent_of_code_day_1\bin\Debug\net9.0\advent_of_code_day_1.runtimeconfig.json
+C:\dev\Advent Of Code\advent_of_code_day_1\bin\Debug\net9.0\advent_of_code_day_1.dll
+C:\dev\Advent Of Code\advent_of_code_day_1\bin\Debug\net9.0\advent_of_code_day_1.pdb
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.AssemblyInfoInputs.cache
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.AssemblyInfo.cs
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.csproj.CoreCompileInputs.cache
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.dll
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\refint\advent_of_code_day_1.dll
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.pdb
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\advent_of_code_day_1.genruntimeconfig.cache
+C:\dev\Advent Of Code\advent_of_code_day_1\obj\Debug\net9.0\ref\advent_of_code_day_1.dll
